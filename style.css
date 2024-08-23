@@ -1,6 +1,6 @@
 body {
     background-color:#ffffff;
-    font-family: ;
+    font-family: Poppins;
 }
 
 * {
@@ -14,4 +14,11 @@ body {
   html {
     scroll-behavior: smooth;
   }
-  
+
+@font-face {
+    font-family: "Poppins";
+    src: url("fonts/Poppins-Medium.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    
+}
